@@ -1,2 +1,3 @@
-# dry
+# Dry
+
 Don't Repeat Yourself
